@@ -1,0 +1,144 @@
+.
+├── AuditLock_backup_v1
+│   ├── build
+│   │   ├── CMakeCache.txt
+│   │   ├── CMakeFiles
+│   │   │   ├── 3.22.1
+│   │   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   │   ├── CMakeSystem.cmake
+│   │   │   │   └── CompilerIdCXX
+│   │   │   │       ├── a.out
+│   │   │   │       ├── CMakeCXXCompilerId.cpp
+│   │   │   │       └── tmp
+│   │   │   ├── cmake.check_cache
+│   │   │   ├── CMakeDirectoryInformation.cmake
+│   │   │   ├── CMakeOutput.log
+│   │   │   ├── CMakeRuleHashes.txt
+│   │   │   ├── CMakeTmp
+│   │   │   ├── LockAudit_autogen.dir
+│   │   │   │   ├── AutogenInfo.json
+│   │   │   │   ├── AutogenUsed.txt
+│   │   │   │   ├── build.make
+│   │   │   │   ├── cmake_clean.cmake
+│   │   │   │   ├── compiler_depend.make
+│   │   │   │   ├── compiler_depend.ts
+│   │   │   │   ├── DependInfo.cmake
+│   │   │   │   ├── ParseCache.txt
+│   │   │   │   └── progress.make
+│   │   │   ├── LockAudit.dir
+│   │   │   │   ├── build.make
+│   │   │   │   ├── cmake_clean.cmake
+│   │   │   │   ├── compiler_depend.make
+│   │   │   │   ├── compiler_depend.ts
+│   │   │   │   ├── DependInfo.cmake
+│   │   │   │   ├── depend.make
+│   │   │   │   ├── flags.make
+│   │   │   │   ├── link.txt
+│   │   │   │   ├── LockAudit_autogen
+│   │   │   │   │   ├── mocs_compilation.cpp.o
+│   │   │   │   │   └── mocs_compilation.cpp.o.d
+│   │   │   │   ├── progress.make
+│   │   │   │   └── src
+│   │   │   │       ├── main.cpp.o
+│   │   │   │       ├── main.cpp.o.d
+│   │   │   │       ├── MainWindow.cpp.o
+│   │   │   │       ├── MainWindow.cpp.o.d
+│   │   │   │       ├── SecurityScanner.cpp.o
+│   │   │   │       └── SecurityScanner.cpp.o.d
+│   │   │   ├── Makefile2
+│   │   │   ├── Makefile.cmake
+│   │   │   ├── progress.marks
+│   │   │   └── TargetDirectories.txt
+│   │   ├── cmake_install.cmake
+│   │   ├── LockAudit
+│   │   ├── LockAudit_autogen
+│   │   │   ├── include
+│   │   │   ├── moc_predefs.h
+│   │   │   ├── mocs_compilation.cpp
+│   │   │   └── UVLADIE3JM
+│   │   │       ├── moc_MainWindow.cpp
+│   │   │       ├── moc_MainWindow.cpp.d
+│   │   │       ├── moc_SecurityScanner.cpp
+│   │   │       └── moc_SecurityScanner.cpp.d
+│   │   └── Makefile
+│   ├── CMakeLists.txt
+│   └── src
+│       ├── main.cpp
+│       ├── MainWindow.cpp
+│       ├── MainWindow.h
+│       ├── SecurityScanner.cpp
+│       └── SecurityScanner.h
+├── build
+│   ├── CMakeCache.txt
+│   ├── CMakeFiles
+│   │   ├── 3.22.1
+│   │   │   ├── CMakeCXXCompiler.cmake
+│   │   │   ├── CMakeDetermineCompilerABI_CXX.bin
+│   │   │   ├── CMakeSystem.cmake
+│   │   │   └── CompilerIdCXX
+│   │   │       ├── a.out
+│   │   │       ├── CMakeCXXCompilerId.cpp
+│   │   │       └── tmp
+│   │   ├── cmake.check_cache
+│   │   ├── CMakeDirectoryInformation.cmake
+│   │   ├── CMakeOutput.log
+│   │   ├── CMakeRuleHashes.txt
+│   │   ├── CMakeTmp
+│   │   ├── LockAudit_autogen.dir
+│   │   │   ├── AutogenInfo.json
+│   │   │   ├── AutogenUsed.txt
+│   │   │   ├── build.make
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── compiler_depend.make
+│   │   │   ├── compiler_depend.ts
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── ParseCache.txt
+│   │   │   └── progress.make
+│   │   ├── LockAudit.dir
+│   │   │   ├── build.make
+│   │   │   ├── cmake_clean.cmake
+│   │   │   ├── compiler_depend.make
+│   │   │   ├── compiler_depend.ts
+│   │   │   ├── DependInfo.cmake
+│   │   │   ├── depend.make
+│   │   │   ├── flags.make
+│   │   │   ├── link.txt
+│   │   │   ├── LockAudit_autogen
+│   │   │   │   ├── mocs_compilation.cpp.o
+│   │   │   │   └── mocs_compilation.cpp.o.d
+│   │   │   ├── progress.make
+│   │   │   └── src
+│   │   │       ├── main.cpp.o
+│   │   │       ├── main.cpp.o.d
+│   │   │       ├── MainWindow.cpp.o
+│   │   │       ├── MainWindow.cpp.o.d
+│   │   │       ├── SecurityScanner.cpp.o
+│   │   │       └── SecurityScanner.cpp.o.d
+│   │   ├── Makefile2
+│   │   ├── Makefile.cmake
+│   │   ├── progress.marks
+│   │   └── TargetDirectories.txt
+│   ├── cmake_install.cmake
+│   ├── LockAudit
+│   ├── LockAudit_autogen
+│   │   ├── include
+│   │   ├── moc_predefs.h
+│   │   ├── mocs_compilation.cpp
+│   │   └── UVLADIE3JM
+│   │       ├── moc_MainWindow.cpp
+│   │       ├── moc_MainWindow.cpp.d
+│   │       ├── moc_SecurityScanner.cpp
+│   │       └── moc_SecurityScanner.cpp.d
+│   ├── LockAudit.txt
+│   └── Makefile
+├── CMakeLists.txt
+├── main.cpp
+├── MainWindow.cpp
+├── MainWindow.h
+├── SecurityScanner.cpp
+├── SecurityScanner.h
+├── src
+└── tree.txt
+
+29 directories, 112 files
